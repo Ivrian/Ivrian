@@ -18,5 +18,5 @@
   <a href = "mailto:mayconiuryacademico@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.behance.net/mayconiury" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg" target="_blank"></a> 
   <div style="display: inline_block"><br>
-  <img align="right" alt="Maycon-gif" src="https://ibb.co/fSrPMBc">
+  <img align="right" alt="Cute-cat-gif" src="https://imgur.com/s55qI30">
 </div>
