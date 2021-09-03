@@ -7,7 +7,7 @@
 
  <div>
   <a href="https://github.com/Ivrian">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Ivrian&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ivrian&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivrian&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
@@ -18,5 +18,5 @@
   <a href = "mailto:mayconiuryacademico@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.behance.net/mayconiury" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg" target="_blank"></a> 
   <div style="display: inline_block"><br>
-  <img align="right" alt="Cute-cat-gif" src="https://i.imgur.com/s55qI30.gif">
+  <img align="right" alt="Cute-cat-gif"  img height = "128 em" src="https://i.imgur.com/s55qI30.gif">
 </div>
