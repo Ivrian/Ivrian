@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente sou historiador, mas apaixonado pelo ramo da programação, almejando um full-stack
-- 🌱 Ainda iniciante no mundo, estudando (ou tentando) Python
+- 🌱 Ainda iniciante no mundo, estudando (ou tentando) Python, HTML, CSS e JS
 - 📫 Me contate pelo e-mail: mayconiuryacademico@gmail.com 
 
  <div>
